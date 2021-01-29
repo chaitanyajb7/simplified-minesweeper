@@ -1,6 +1,6 @@
-### Simplified Minesweeper
+## Simplified Minesweeper
 
-## Description:
+# Description:
 This is a simplified game of minesweeper using React.js. 
 It comprises of an m*n grid with x number of hidden mines placed randomly on the grid. 
 The user plays a guessing game of clicking cells on the grid as per the following rules:     
@@ -28,11 +28,11 @@ The user plays a guessing game of clicking cells on the grid as per the followin
 
 In the project directory, run the below to install dependencies:
 
-### `npm start`
+# `npm start`
 
 In the project directory, you can run:
 
-### `npm start`
+# `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

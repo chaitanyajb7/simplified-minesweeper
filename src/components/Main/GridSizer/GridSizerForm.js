@@ -92,7 +92,6 @@ const GridSizerForm = ({m,n,min,max,handleMNChange}) => {
                                     <TextFieldCustomized 
                                       id="column_m" 
                                       type="data"
-                                      label="Outlined"
                                       variant="outlined"
                                       className={classes.margin} 
                                       label={strings.enter_m}
@@ -109,7 +108,6 @@ const GridSizerForm = ({m,n,min,max,handleMNChange}) => {
                                   <TextFieldCustomized 
                                       id="row_n" 
                                       type="data"
-                                      label="Outlined"
                                       variant="outlined"
                                       className={classes.margin} 
                                       label={strings.enter_n}

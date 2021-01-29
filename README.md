@@ -18,11 +18,11 @@ The user plays a guessing game of clicking cells on the grid as per the followin
 
 ### Game Started View
 
-!["Game Started View"](https://github.com/chaitanyajb7/simplified-minesweeper/blob/main/public/game_over.png)
+!["Game Over View"](https://github.com/chaitanyajb7/simplified-minesweeper/blob/main/public/game_started.png)
 
 ### Game Over View
 
-!["Game Over View"](https://github.com/chaitanyajb7/simplified-minesweeper/blob/main/public/game_started.png)
+!["Game Started View"](https://github.com/chaitanyajb7/simplified-minesweeper/blob/main/public/game_over.png)
 
 ## Getting Started
 

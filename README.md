@@ -26,11 +26,13 @@ The user plays a guessing game of clicking cells on the grid as per the followin
 
 ## Getting Started
 
-In the project directory, run the below to install dependencies:
+In the project directory:
 
-### `npm start`
+Run the below to install dependencies:
 
-In the project directory, you can run:
+### `npm install`
+
+Run the below commad to start the application:
 
 ### `npm start`
 

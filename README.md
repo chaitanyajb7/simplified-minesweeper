@@ -24,7 +24,7 @@ The user plays a guessing game of clicking cells on the grid as per the followin
 
 ![Alt text](/public/game_started.jpg?raw=true "Game Over Vie")
 
-### Getting Started
+## Getting Started
 
 In the project directory, run the below to install dependencies:
 

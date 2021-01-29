@@ -10,11 +10,11 @@ The user plays a guessing game of clicking cells on the grid as per the followin
 
 ### Game Creation Screen
 
-![Alt text](/public/game_creation.jpg?raw=true "Game Creation Screen")
+!["Game Creation Screen"](https://github.com/chaitanyajb7/simplified-minesweeper/blob/main/public/game_creation.png)
 
 ### Game Landing Screen
 
-![Alt text](/public/game_landing_screen.jpg?raw=true "Game Landing Screen")
+!["Game Landing Screen"](https://github.com/chaitanyajb7/simplified-minesweeper/blob/main/public/game_creation.png)
 
 ### Game Started View
 

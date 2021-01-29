@@ -14,15 +14,15 @@ The user plays a guessing game of clicking cells on the grid as per the followin
 
 ### Game Landing Screen
 
-!["Game Landing Screen"](https://github.com/chaitanyajb7/simplified-minesweeper/blob/main/public/game_creation.png)
+!["Game Landing Screen"](https://github.com/chaitanyajb7/simplified-minesweeper/blob/main/public/game_landing_screen.png)
 
 ### Game Started View
 
-![Alt text](/public/game_over.jpg?raw=true "Game Started View")
+!["Game Started View"](https://github.com/chaitanyajb7/simplified-minesweeper/blob/main/public/game_over.png)
 
 ### Game Over View
 
-![Alt text](/public/game_started.jpg?raw=true "Game Over Vie")
+!["Game Over View"](https://github.com/chaitanyajb7/simplified-minesweeper/blob/main/public/game_started.png)
 
 ## Getting Started
 
